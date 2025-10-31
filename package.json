@@ -1,0 +1,10 @@
+{
+	"devDependencies": {
+		"sass": "^1.80.7",
+		"sass-loader": "10"
+	},
+	"dependencies": {
+		"uview-plus": "^3.1.41",
+		"vite": "^6.0.3"
+	}
+}
